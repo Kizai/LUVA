@@ -1,0 +1,11 @@
+sounddevice~=0.4.6
+soundfile~=0.12.1
+scipy
+SpeechRecognition
+PySide6
+pyaudio
+pyttsx3
+requests~=2.31.0
+numpy~=1.25.2
+PyQt5~=5.15.9
+open-interpreter

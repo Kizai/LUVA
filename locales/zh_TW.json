@@ -1,0 +1,10 @@
+{
+    "Cannot connect to Google. Please configure a proxy.": "無法連接到Google。請配置代理。",
+    "Enter your proxy URL: ": "輸入你的代理URL：",
+    "Recording audio...": "正在錄音...",
+    "Converting audio to text...": "正在將音頻轉換為文本...",
+    "Executing command...": "正在執行命令...",
+    "Command:": "命令：",
+    "Record": "錄音",
+    "Failed to convert audio to text. Please try again.": "無法將音頻轉換為文本。請再試一次。"
+}

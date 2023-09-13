@@ -1,0 +1,10 @@
+{
+    "Cannot connect to Google. Please configure a proxy.": "Cannot connect to Google. Please configure a proxy.",
+    "Enter your proxy URL: ": "Enter your proxy URL: ",
+    "Recording audio...": "Recording audio...",
+    "Converting audio to text...": "Converting audio to text...",
+    "Executing command...": "Executing command...",
+    "Command:": "Command:",
+    "Record": "Record",
+    "Failed to convert audio to text. Please try again.": "Failed to convert audio to text. Please try again."
+}
